@@ -1,0 +1,6 @@
+{
+  "name": "Urban Dash 3D - Mobile Game Design & Runner",
+  "description": "Complete Game Design Document & 3D low-poly endless runner mobile game for Android featuring 10 runners, 7 biomes, police & K9 chase mechanics, and real-time WebGL prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
